@@ -1,2 +1,1 @@
-# db
-database connection
+# Database-connectivity-for-website-using-local-server
